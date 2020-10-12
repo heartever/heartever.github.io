@@ -31,10 +31,10 @@ Working Experience
 Publications
 ------ 
 * **TEADS: A Defense-aware Framework for Synthesizing Transient Execution Attacks**  
-Tianlin Huo, **Wenhao Wang**, Pei Zhao, Yufeng Li, Tingting Wang, Mingshu Li
+Tianlin Huo, **Wenhao Wang**, Pei Zhao, Yufeng Li, Tingting Wang, Mingshu Li  
 IEEE TrustCom 2020 (CCF-C)
 * **Partial-SMT: Core-scheduling Protection Against SMT Contention-based Attacks**  
-Xiaohui Wu, Yeping He, Qiming Zhou, Hengtai Ma, Liang He, **Wenhao Wang** and Liheng Chen
+Xiaohui Wu, Yeping He, Qiming Zhou, Hengtai Ma, Liang He, **Wenhao Wang** and Liheng Chen  
 IEEE TrustCom 2020 (CCF-C)
 * [**Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment**](https://heartever.github.io/files/hetee.pdf)  
 Jianping Zhu, Rui Hou, XiaoFeng Wang, **Wenhao Wang**, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang and Dan Meng  
@@ -111,7 +111,7 @@ Students
 * Jinze She
 * Sitong Chen
 
-I am fortunate to work closely with the following people:
+Also I am fortunate to work closely with the following people:
 * Weijie Liu
 * Hongbo Chen
 * Benshan Mei
