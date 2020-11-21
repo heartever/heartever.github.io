@@ -13,7 +13,7 @@ I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/x
 
 **Please send an email to [wangwenhao@iie.ac.cn](mailto:wangwenhao@iie.ac.cn) if you would like to join our group. We welcome students with interests in topics related to operating system/software/virtualization/hardware-assisted security/TEE/privacy preserving technologies/microarchitectural side channels etc.**
 
-**Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18, S&P'20.**
+**Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18, S&P'20, S&P'21.**
 
 Education
 ------
@@ -30,6 +30,9 @@ Working Experience
 
 Publications
 ------ 
+* [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957)  
+Wei Song, Boya Li, Zihan Xue, Zhenzhen Li, **Wenhao Wang**, Peng Liu  
+To appear at 2021 IEEE Symposium on Security and Privacy (**S&P**) (CCF-A)
 * **TEADS: A Defense-aware Framework for Synthesizing Transient Execution Attacks**  
 Tianlin Huo, **Wenhao Wang**, Pei Zhao, Yufeng Li, Tingting Wang, Mingshu Li  
 IEEE TrustCom 2020 (CCF-C)
@@ -82,8 +85,6 @@ Manuscript(s)
 **Wenhao Wang**, Yichen Jiang, Qintao Shen, Weihao Huang, Hao Chen, Shuang Wang, XiaoFeng Wang, Haixu Tang, Kai Chen and Kristin Lauter and Dongdai Lin 
 * [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://arxiv.org/pdf/2007.10513)  
 Weijie Liu, **Wenhao Wang**, XiaoFeng Wang, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing
-* [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957)  
-Wei Song, Boya Li, Zihan Xue, Zhenzhen Li, **Wenhao Wang**, Peng Liu
 
 Professional Services
 -----
