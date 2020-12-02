@@ -113,15 +113,6 @@ Students
 * Jinze She
 * Sitong Chen
 
-Also I am fortunate to work closely with the following people:
-* Weijie Liu
-* Hongbo Chen
-* Benshan Mei
-* Zhengyi Dai
-* Bohan Li
-* Tianlin Huo
-* Xiaohui Wu
-
 Useful Links
 ------
 * [Top Cyber Security Conferences Ranking](http://jianying.space/conference-ranking.html)
