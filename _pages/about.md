@@ -99,7 +99,7 @@ Awards
 
 Talks
 -----
-* [Mitigating side channels in SGX with software only methods (in Chinese)] (https://heartever.github.io/files/hyperrace_chip.pdf)
+* [Mitigating side channels in SGX with software only methods (in Chinese)](https://heartever.github.io/files/hyperrace_chip.pdf)
 * [Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment](https://heartever.github.io/files/HETEE_slides.pdf)
 * China Conference on Data Security and Privacy (ChinaPrivacy2019), Oct. 2019, Guilin, [Confidential Computing, in Chinese](https://heartever.github.io/files/ConfidentialComputing-Guilin.pdf)  
 * Nankai University, July 2019, Tianjin, [Confidential Computing, in Chinese](https://heartever.github.io/files/ConfidentialComputing-tianjin.pdf)  
