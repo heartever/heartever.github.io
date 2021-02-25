@@ -85,6 +85,8 @@ Manuscript(s)
 **Wenhao Wang**, Yichen Jiang, Qintao Shen, Weihao Huang, Hao Chen, Shuang Wang, XiaoFeng Wang, Haixu Tang, Kai Chen and Kristin Lauter and Dongdai Lin 
 * [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://arxiv.org/pdf/2007.10513)  
 Weijie Liu, **Wenhao Wang**, XiaoFeng Wang, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing
+* [**SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh**](https://arxiv.org/pdf/2102.10269)  
+Zhi Zhang, Yueqiang Cheng, Minghua Wang, Wei He, **Wenhao Wang**, Nepal Surya, Yansong Gao, Kang Li, Zhe Wang, Chenggang Wu
 
 Professional Services
 -----
