@@ -30,6 +30,9 @@ Working Experience
 
 Publications
 ------ 
+* [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://arxiv.org/pdf/2007.10513)  
+Weijie Liu, **Wenhao Wang**, XiaoFeng Wang, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing  
+Accepted to the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN 2021**) (CCF-B)
 * [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957)  
 Wei Song, Boya Li, Zihan Xue, Zhenzhen Li, **Wenhao Wang**, Peng Liu  
 To appear at 2021 IEEE Symposium on Security and Privacy (**S&P**) (CCF-A)
@@ -83,8 +86,6 @@ Manuscript(s)
 ------
 * [**Toward Scalable Fully Homomorphic Encryption Through Light Trusted Computing Assistance**](https://heartever.github.io/files/fhetee.pdf)  
 **Wenhao Wang**, Yichen Jiang, Qintao Shen, Weihao Huang, Hao Chen, Shuang Wang, XiaoFeng Wang, Haixu Tang, Kai Chen and Kristin Lauter and Dongdai Lin 
-* [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://arxiv.org/pdf/2007.10513)  
-Weijie Liu, **Wenhao Wang**, XiaoFeng Wang, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing
 * [**SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh**](https://arxiv.org/pdf/2102.10269)  
 Zhi Zhang, Yueqiang Cheng, Minghua Wang, Wei He, **Wenhao Wang**, Nepal Surya, Yansong Gao, Kang Li, Zhe Wang, Chenggang Wu
 
