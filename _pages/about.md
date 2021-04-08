@@ -28,10 +28,10 @@ Working Experience
 * **Research Assistant**, <ins>Institute of Information Engineering, CAS</ins>, May 2012 – Jan. 2015
 * **Research Assistant**, <ins>Institute of Software, CAS</ins>, Sept. 2009 – Apr. 2012
 
-Publications (* Corresponding authors)
+Publications ($ Corresponding authors)
 ------ 
 * [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://arxiv.org/pdf/2007.10513)  
-Weijie Liu, **Wenhao Wang***, Hongbo Chen, XiaoFeng Wang*, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing  
+Weijie Liu, **Wenhao Wang**$, Hongbo Chen, XiaoFeng Wang$, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing  
 Accepted to the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN 2021**) (CCF-B)
 * [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957)  
 Wei Song, Boya Li, Zihan Xue, Zhenzhen Li, **Wenhao Wang**, Peng Liu  
@@ -43,10 +43,10 @@ IEEE TrustCom 2020 (CCF-C)
 Xiaohui Wu, Yeping He, Qiming Zhou, Hengtai Ma, Liang He, **Wenhao Wang** and Liheng Chen  
 IEEE TrustCom 2020 (CCF-C)
 * [**Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment**](https://heartever.github.io/files/hetee.pdf)  
-Jianping Zhu, Rui Hou*, XiaoFeng Wang*, **Wenhao Wang**, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang and Dan Meng  
+Jianping Zhu, Rui Hou$, XiaoFeng Wang$, **Wenhao Wang**, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang and Dan Meng  
 2020 IEEE Symposium on Security and Privacy (**S&P**) (CCF-A)
 * [**Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX**](https://heartever.github.io/files/bluethunder_sgx_ches.pdf)  
-Tianlin Huo, Xiaoni Meng, **Wenhao Wang***, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li*   
+Tianlin Huo, Xiaoni Meng, **Wenhao Wang**$, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li$   
 IACR Transactions on Cryptographic Hardware and Embedded Systems (**CHES'2020**) (CCF-B)  
 * [**Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection**](https://heartever.github.io/files/acsac2018-beware.pdf)  
 Zhe Zhou, Di Tang, **Wenhao Wang**, XiaoFeng Wang, Zhou Li, Kehuan Zhang  
@@ -58,7 +58,7 @@ Jingchun Yang, Meicheng Liu, Dongdai Lin and **Wenhao Wang**
 Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin    
 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (**Eurocrypt'2018**) (acceptance rate: 23%, CCF-A)
 * [**Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races**](https://heartever.github.io/files/racing.pdf)  
-[Guoxing Chen, **Wenhao Wang***], Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin.   
+[Guoxing Chen, **Wenhao Wang**$], Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin.   
 2018 IEEE Symposium on Security and Privacy (**S&P**) (acceptance rate: ~10%, CCF-A)
 * [**iDASH secure genome analysis competition 2017**](https://heartever.github.io/files/Wang2018_Article_IDASHSecureGenomeAnalysisCompe.pdf)  
 XiaoFeng Wang, Haixu Tang, Shuang Wang, Xiaoqian Jiang, **Wenhao Wang**, Diyue Bu, Lei Wang, Yicheng Jiang, Chenghong Wang  
@@ -127,4 +127,4 @@ Useful Links
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-Last updated: 2020/10/12.
+Last updated: 2021/4/8.
