@@ -64,7 +64,7 @@ Meicheng Liu, Jingchun Yang, **Wenhao Wang**, Dongdai Lin
 XiaoFeng Wang, Haixu Tang, Shuang Wang, Xiaoqian Jiang, **Wenhao Wang**, Diyue Bu, Lei Wang, Yicheng Jiang, Chenghong Wang  
 **BMC Medical Genomics 2018**  
 * [**Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX**](https://heartever.github.io/files/leaky.pdf) [[slides](https://heartever.github.io/files/leaky_slides.pdf)]  
-**Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter. (<ins>First Author</ins>)  
+**Wenhao Wang**, Guoxing Chen, Xiaorui Pan, Yinqian Zhang, XiaoFeng Wang, Vincent Bindschaedler, Haixu Tang, Carl A. Gunter.  
 **ACM CCS 2017** (acceptance rate: 18%, CCF-A)  
 * [**Binary Code Retrofitting and Hardening Using SGX**](https://heartever.github.io/files/bsgx-feast17.pdf) [[slides](https://heartever.github.io/files/p43-wangA-slides.pdf)]  
 Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu  
@@ -73,13 +73,13 @@ Shuai Wang, **Wenhao Wang**, Qinkun Bao, Pei Wang, XiaoFeng Wang, and Dinghao Wu
 Meicheng Liu, Dongdai Lin, **Wenhao Wang**  
 2015 IEEE International Symposium on Information Theory. (IIE-B)
 * **Comments on “A design of Boolean functions resistant to (fast) algebraic cryptanalysis with efficient implementation”**  
-**Wenhao Wang**, Meicheng Liu, Yin Zhang. (<ins>First Author</ins>)  
+**Wenhao Wang**, Meicheng Liu, Yin Zhang.  
 Cryptography and Communications  
 * **Analysis of Multiple Checkpoints in Non-perfect and Perfect Rainbow Tradeoff Revisited**  
-**Wenhao Wang**, Dongdai Lin. (<ins>First Author</ins>)  
+**Wenhao Wang**, Dongdai Lin.  
 ICICS'13 (acceptance rate: 20%, CCF-C)  
 * **Improvement and Analysis of VDP Method in Time/Memory Tradeoff Applications**  
-**Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang. (<ins>First Author</ins>)  
+**Wenhao Wang**, Dongdai Lin, Zhenqi Li, Tianze Wang.  
 ICICS'11 (acceptance rate: 23%, CCF-C)  
 
 Manuscript(s)
