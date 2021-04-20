@@ -102,6 +102,7 @@ Awards
 
 Talks
 -----
+* [A breif introduction to scalable SGX](https://heartever.github.io/files/scalable_sgx_public.pdf)
 * [可信硬件与密码学的一些思考](https://heartever.github.io/files/trusted-hardware-crypto.pdf)
 * [硬件安全问题及防护](https://heartever.github.io/files/hardwaresecurity.pdf)
 * [Mitigating side channels in SGX with software only methods (in Chinese)](https://heartever.github.io/files/hyperrace_chip.pdf)
