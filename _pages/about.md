@@ -15,6 +15,9 @@ I have been visiting [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/x
 
 **Papers published at top-tier security & crypto conferences: CCS'17, S&P'18, Eurocrypt'18, S&P'20, S&P'21.**
 
+**News: I will serve as a PC member for GenoPri 2021.**  
+**News: Our paper on confidential attestation to be presented at DSN 2021.**
+
 Education
 ------
 * Ph.D. in _Information Security_, <ins>University of Chinese Academy of Sciences</ins>, Jan. 2015
