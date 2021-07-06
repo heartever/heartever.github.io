@@ -33,7 +33,7 @@ Working Experience
 
 Publications ($ Corresponding authors)
 ------ 
-* [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://heartever.github.io/files/confidential_attestation.pdf)  
+* [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://heartever.github.io/files/confidential_attestation.pdf)[[slides](https://heartever.github.io/files/confidential_attestation_slides.pdf)]  
 Weijie Liu, **Wenhao Wang**$, Hongbo Chen, XiaoFeng Wang$, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing  
 Accepted to the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN 2021**) (CCF-B)
 * [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957)  
@@ -45,7 +45,7 @@ IEEE TrustCom 2020 (CCF-C)
 * **Partial-SMT: Core-scheduling Protection Against SMT Contention-based Attacks**  
 Xiaohui Wu, Yeping He, Qiming Zhou, Hengtai Ma, Liang He, **Wenhao Wang** and Liheng Chen  
 IEEE TrustCom 2020 (CCF-C)
-* [**Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment**](https://heartever.github.io/files/hetee.pdf)[[slides](https://heartever.github.io/files/confidential_attestation_slides.pdf)]  
+* [**Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment**](https://heartever.github.io/files/hetee.pdf)  
 Jianping Zhu, Rui Hou$, XiaoFeng Wang$, **Wenhao Wang**, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang and Dan Meng  
 2020 IEEE Symposium on Security and Privacy (**S&P**) (CCF-A)
 * [**Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX**](https://heartever.github.io/files/bluethunder_sgx_ches.pdf)  
