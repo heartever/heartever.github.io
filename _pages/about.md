@@ -34,7 +34,7 @@ Working Experience
 Publications ($ Corresponding authors)
 ------ 
 * [**Confidential Attestation: Efficient in-Enclave Verification of Privacy Policy Compliance**](https://heartever.github.io/files/confidential_attestation.pdf) [[slides](https://heartever.github.io/files/confidential_attestation_slides.pdf)]  
-Weijie Liu, **Wenhao Wang**$, Hongbo Chen, XiaoFeng Wang$, Xiaozhu Meng, Yaosong Lu, Hongbo Chen, Xinyu Wang, Qingtao Shen, Kai Chen, Haixu Tang, Yi Chen, Luyi Xing  
+Weijie Liu, **Wenhao Wang**$, Hongbo Chen, XiaoFeng Wang$, Yaosong Lu, Kai Chen, Xinyu Wang, Qingtao Shen, Yi Chen, Haixu Tang  
 Accepted to the 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN 2021**) (CCF-B)
 * [**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**](https://arxiv.org/pdf/2008.01957)  
 Wei Song, Boya Li, Zihan Xue, Zhenzhen Li, **Wenhao Wang**, Peng Liu  
