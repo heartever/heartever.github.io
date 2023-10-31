@@ -1,0 +1,31 @@
+main:
+  - title: "virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone"
+    authors: Xiangyi Xu, <strong>Wenhao Wang</strong>*, Yongzheng Wu, Zhennan Min, Zixuan Pang, Yier Jin*
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/pdf/2306.11011.pdf
+
+  - title: "Understanding TEE Containers, Easy to Use? Hard to Trust"
+    authors: "&#91;Weijie Liu, Hongbo Chen&#93;, XiaoFeng Wang, Zhi Li, Danfeng Zhang, <strong>Wenhao Wang</strong>, Haixu Tang"
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/pdf/2109.01923.pdf
+
+  - title: "Toward Scalable Fully Homomorphic Encryption Through Light Trusted Computing Assistance"
+    authors: <strong>Wenhao Wang</strong>, Yichen Jiang, Qintao Shen, Weihao Huang, Hao Chen, Shuang Wang, XiaoFeng Wang, Haixu Tang, Kai Chen, Kristin Lauter, Dongdai Lin
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: /files/hetee.pdf
+#    conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A).
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+   # image: ./assets/img/teaser_example_2.png
+  #  notes: To appear
+    
+    
+
+
+
+
+
