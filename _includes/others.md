@@ -2,7 +2,7 @@ Courses
 -----
 * Paper Readings (2019-Spring, 20 hours)
 * Security Chips (2021-FALL, 2022-FALL, 40 hours)
-* Chip and Professor Security (2023-FALL, 40 hours, with Prof. [Mingzhe Zhang](https://mingzhe-zhang.github.io/))  
+* Chip and Processor Security (2023-FALL, 40 hours, with Prof. [Mingzhe Zhang](https://mingzhe-zhang.github.io/))  
 * Paper Readings (2024-Spring, 30 hours, with Prof. [Ben Niu](https://people.ucas.ac.cn/~ben/))
 
 Professional Services

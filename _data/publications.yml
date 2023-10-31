@@ -69,7 +69,7 @@ main:
   - title: "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability"
     authors: "&#91;Zhi Zhang, <u>Wei He</u>&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>, Yansong Gao*, Minghua Wang, Kang Li, Surya Nepal, Yang Xiang"
     journal_short: TIFS
-    journal: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A).
+    journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A).
     pdf: https://ieeexplore.ieee.org/document/9664230
 
   - title: "Practical and Efficient in-Enclave Verification of Privacy Compliance"
@@ -117,8 +117,8 @@ main:
 
   - title: "iDASH secure genome analysis competition 2017"
     authors: XiaoFeng Wang, Haixu Tang, Shuang Wang, Xiaoqian Jiang, <strong>Wenhao Wang</strong>, Diyue Bu, Lei Wang, Yicheng Jiang, Chenghong Wang
-    conference_short: Genomics
-    conference: 2018 BMC Medical Genomics
+    journal_short: Genomics
+    journal: 2018 BMC Medical Genomics
     pdf: /files/Wang2018_Article_IDASHSecureGenomeAnalysisCompe.pdf
     
   - title: "Leaky Cauldron on the Dark Land: Understanding Memory Side-Channel Hazards in SGX"
