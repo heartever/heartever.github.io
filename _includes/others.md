@@ -32,8 +32,7 @@ Talks
 
 Students
 -----
-* Master students:    
-  - Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))  
+* Master students:      
   - Jinze She
   - Zhaoyang Geng
   - Zhennan Min
@@ -47,6 +46,7 @@ Students
  
 ## Alumni
 -----
+* Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))
 * Wenwen Ruan (First job: Intel)  
 * Sitong Chen (First job: Shanghai Academy of Spaceflight Technology)  
 
