@@ -44,7 +44,7 @@ Students
   - Bohan Li
   - Zihao Wang
  
-## Alumni
+Alumni
 -----
 * Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))
 * Wenwen Ruan (First job: Intel)  
