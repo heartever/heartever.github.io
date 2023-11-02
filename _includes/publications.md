@@ -1,4 +1,5 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications (* Corresponding authors, [ ] Equal Contributions, <input type='text' style='border:none;border-bottom:1px solid #000' size= "1"/> Advised by me)</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications (Full list: <a href="https://scholar.google.com/citations?user=9WkYf5wAAAAJ&hl=en">Google Scholar</a>)</h2>
+<p><h4 id="publications" style="margin: 2px 0px -15px;">(* Corresponding authors, [ ] Equal Contributions, <input type='text' style='border:none;border-bottom:1px solid #000' size= "1"/> Advised by me)</h4></p>
 
 <div class="publications">
 <ol class="bibliography">
