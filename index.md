@@ -10,6 +10,7 @@ Dr. Wenhao Wang is an associate professor at [Institute of Information Engineeri
 
 ## News
 
+![letter](/images/news.png "news") **[Nov. 2023]** **A new paper is (conditionally) accepted to ASPLOS 2024. We propose _MIRVerif_, a framework for reasoning about idiomatic Rust in Coq, and use it to formally verify the correctness of the memory subsystem of HyperEnclave.**  
 ![letter](/images/news.png "news") **[Oct. 2023]** **A new paper on side channel attacks is accepted to HPCA 2024. SegScope can be used to probe interrupts without relying on any timers.**  
 ![letter](/images/news.png "news") **[Sept. 2023]** **A new paper on rowhammer attacks on gray-box DNNs is accepted to USENIX Security 2024.**  
 ![letter](/images/news.png "news") **[Aug. 2023]** **A new paper on iOS side channel analysis is accepted to ACM CCS 2023.**  

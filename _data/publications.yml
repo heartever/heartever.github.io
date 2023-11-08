@@ -1,9 +1,19 @@
 main:
 
+  - title: "Verifying Rust Implementation of Page Tables in a Software Enclave Hypervisor"
+    authors: Zhenyang Dai, Shoumeng Yan, Vilhelm Sjoberg, Yu Chen, <strong>Wenhao Wang</strong>, Hongbo Chen, XiaoFeng Wang, Shubham Sondhi, Laila Elbeheiry, Sean Noble Anderson, Xinyuan Sun, Zhaozhong Ni, Kinnary Dave, Xupeng Li, Yuekai Jia, Yu Zhang, Shuang Liu, Zhengyu He
+    conference_short: ASPLOS
+    conference:  International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024) (CCF-A)
+#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+#    code: https://github.com/MrGiovanni/ContinualLearning
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+   # image: ./assets/img/teaser_example_2.png
+    notes: To appear
+  
   - title: "SegScope: Probing Fine-grained Interrupts via Architectural Footprints"
     authors: Xin Zhang, Zhi Zhang, Qingni Shen, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang
     conference_short: HPCA
-    conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A).
+    conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A)
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +23,7 @@ main:
   - title: "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection"
     authors: Zihao Wang, Di Tang*, XiaoFeng Wang, <u>Wei He</u>, <u>Zhaoyang Geng</u>, <strong>Wenhao Wang</strong>* 
     conference_short: Security
-    conference: USENIX Security 2024 (CCF-A).
+    conference: USENIX Security 2024 (CCF-A)
     pdf: /files/groan.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -23,7 +33,7 @@ main:
   - title: "The Danger of Minimum Exposures: Understanding Cross-App Information Leaks on iOS through Multi-Side-Channel Learning"
     authors: "&#91;Zihao Wang, Jiale Guan&#93;, XiaoFeng Wang, <strong>Wenhao Wang</strong>, Luyi Xing, Fares Alharbi"
     conference_short: CCS
-    conference: ACM Conference on Computer and Communications Security (ACM CCS 2023) (CCF-A).
+    conference: ACM Conference on Computer and Communications Security (ACM CCS 2023) (CCF-A)
     pdf: /files/iOS_side_channel.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -33,7 +43,7 @@ main:
   - title: "WhistleBlower: A System-level Empirical Study on RowHammer"
     authors: "&#91;<u>Wei He</u>, Zhi Zhang&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>*, Wei Song, Yansong Gao, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal" 
     journal_short: TC
-    journal: IEEE Transactions on Computers (TC) (CCF-A).
+    journal: IEEE Transactions on Computers (TC) (CCF-A)
     pdf: /files/whistleblower.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -43,76 +53,76 @@ main:
   - title: "Implicit Hammer: Cross-Privilege-Boundary Rowhammer through Implicit Accesses"
     authors: "&#91;Zhi Zhang, <u>Wei He</u>&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>, Yansong Gao*, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou" 
     journal_short: TDSC
-    journal: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A).
+    journal: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A)
     pdf: https://ieeexplore.ieee.org/abstract/document/9919335/
 
   - title: "HyperEnclave: An Open and Cross-platform Trusted Execution Environment"
     authors: Yuekai Jia, Shuang Liu, <strong>Wenhao Wang</strong>*, Yu Chen, Zhengde Zhai, Shoumeng Yan, Zhengyu He 
     conference_short: ATC
-    conference: 2022 USENIX Annual Technical Conference (USENIX ATC) (CCF-A).
+    conference: 2022 USENIX Annual Technical Conference (USENIX ATC) (CCF-A)
     pdf: https://www.usenix.org/system/files/atc22-jia-yuekai.pdf
     slides: https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_jia_yuekai.pdf
 
   - title: "SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh"
     authors: "&#91;Zhi Zhang, Yueqiang Cheng&#93;, Minghua Wang, <u>Wei He</u>, <strong>Wenhao Wang</strong>*, Nepal Surya, Yansong Gao, Kang Li, Zhe Wang, Chenggang Wu"
     conference_short: ATC
-    conference: 2022 USENIX Annual Technical Conference (USENIX ATC) (CCF-A).
+    conference: 2022 USENIX Annual Technical Conference (USENIX ATC) (CCF-A)
     pdf: https://www.usenix.org/system/files/atc22-zhang-zhi.pdf
     slides: https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_zhang-zhi.pdf
 
   - title: "Trust Beyond Border: Lightweight, Verifiable User Isolation for Protecting In-Enclave Services"
     authors: <strong>Wenhao Wang</strong>*, Weijie Liu, Hongbo Chen, XiaoFeng Wang, Hongliang Tian, Dongdai Lin
     journal_short: TDSC
-    journal: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A).
+    journal: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A)
     pdf: https://ieeexplore.ieee.org/document/9664230
 
   - title: "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability"
     authors: "&#91;Zhi Zhang, <u>Wei He</u>&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>, Yansong Gao*, Minghua Wang, Kang Li, Surya Nepal, Yang Xiang"
     journal_short: TIFS
-    journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A).
+    journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
     pdf: https://ieeexplore.ieee.org/document/9664230
 
   - title: "Practical and Efficient in-Enclave Verification of Privacy Compliance"
     authors: Weijie Liu, <strong>Wenhao Wang</strong>*, Hongbo Chen, XiaoFeng Wang*, Yaosong Lu, Kai Chen, Xinyu Wang, Qingtao Shen, Yi Chen, Haixu Tang 
     conference_short: DSN
-    conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021) (CCF-B).
+    conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021) (CCF-B)
     pdf: https://heartever.github.io/files/confidential_attestation.pdf
     slides: /files/confidential_attestation_slides.pdf
 
   - title: "Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It"
     authors: Wei Song, Boya Li, Zihan Xue, Zhenzhen Li, <strong>Wenhao Wang</strong>, Peng Liu 
     conference_short: S&P
-    conference: 2021 IEEE Symposium on Security and Privacy (S&P) (CCF-A).
+    conference: 2021 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
     pdf: https://arxiv.org/pdf/2008.01957
     
   - title: "Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment"
     authors: Jianping Zhu, Rui Hou, XiaoFeng Wang, <strong>Wenhao Wang</strong>, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang, Dan Meng
     conference_short: S&P
-    conference: 2020 IEEE Symposium on Security and Privacy (S&P) (CCF-A).
+    conference: 2020 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
     pdf: /files/hetee.pdf
 
   - title: "Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX"
     authors: Tianlin Huo, Xiaoni Meng, <strong>Wenhao Wang</strong>*, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li* 
     conference_short: TCHES
-    conference: IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES 2020) (CCF-B).
+    conference: IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES 2020) (CCF-B)
     pdf: /files/bluethunder_sgx_ches.pdf
 
   - title: "Beware of Your Screen: Anonymous Fingerprinting of Device Screens for Off-line Payment Protection"
     authors: Zhe Zhou, Di Tang, <strong>Wenhao Wang</strong>, XiaoFeng Wang, Zhou Li, Kehuan Zhang
     conference_short: ACSAC
-    conference: Annual Computer Security Applications Conference (ACSAC 2018) (CCF-B).
+    conference: Annual Computer Security Applications Conference (ACSAC 2018) (CCF-B)
     pdf: /files/acsac2018-beware.pdf
 
   - title: "Correlation Cube Attacks: From Weak-Key Distinguisher to Key Recovery"
     authors: Meicheng Liu, Jingchun Yang, <strong>Wenhao Wang</strong>, Dongdai Lin 
     conference_short: Eurocrypt
-    conference: 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2018) (CCF-A).
+    conference: 37th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2018) (CCF-A)
     pdf: /files/correlation.pdf
     
   - title: "Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races"
     authors: "&#91;Guoxing Chen, <strong>Wenhao Wang</strong>*&#93;, Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin"
     conference_short: S&P
-    conference: 2018 IEEE Symposium on Security and Privacy (S&P) (CCF-A).
+    conference: 2018 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
     pdf: /files/racing.pdf
 
   - title: "iDASH secure genome analysis competition 2017"
