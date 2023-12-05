@@ -1,5 +1,11 @@
 main:
 
+  - title: "PP-Stream: A Privacy-Preserving Neural Network Inference Service with Stream Processing"
+    authors: Qingxiu Liu, Qun Huang, Xiang Chen, Sa Wang, <strong>Wenhao Wang</strong>, Shujie Han, Patrick P. C. Lee
+    conference_short: ICDE
+    conference:  40th IEEE International Conference on Data Engineering (ICDE 2024) (CCF-A)
+    notes: To appear
+
   - title: "Verifying Rust Implementation of Page Tables in a Software Enclave Hypervisor"
     authors: Zhenyang Dai, Shoumeng Yan, Vilhelm Sjoberg, Yu Chen, <strong>Wenhao Wang</strong>, Hongbo Chen, XiaoFeng Wang, Shubham Sondhi, Laila Elbeheiry, Sean Noble Anderson, Xinyuan Sun, Zhaozhong Ni, Kinnary Dave, Xupeng Li, Yuekai Jia, Yu Zhang, Shuang Liu, Zhengyu He
     conference_short: ASPLOS
@@ -11,7 +17,7 @@ main:
     notes: To appear
   
   - title: "SegScope: Probing Fine-grained Interrupts via Architectural Footprints"
-    authors: Xin Zhang, Zhi Zhang, Qingni Shen, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang
+    authors: "&#91;Xin Zhang, Zhi Zhang&#93;, Qingni Shen*, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang
     conference_short: HPCA
     conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A)
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
@@ -38,7 +44,7 @@ main:
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
-    notes: To appear
+    #notes: To appear
 
   - title: "WhistleBlower: A System-level Empirical Study on RowHammer"
     authors: "&#91;<u>Wei He</u>, Zhi Zhang&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>*, Wei Song, Yansong Gao, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal" 
