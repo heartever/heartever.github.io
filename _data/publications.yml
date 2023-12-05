@@ -17,7 +17,7 @@ main:
     notes: To appear
   
   - title: "SegScope: Probing Fine-grained Interrupts via Architectural Footprints"
-    authors: "&#91;Xin Zhang, Zhi Zhang&#93;, Qingni Shen*, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang
+    authors: "&#91;Xin Zhang, Zhi Zhang&#93;, Qingni Shen*, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang"
     conference_short: HPCA
     conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A)
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
