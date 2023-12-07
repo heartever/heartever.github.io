@@ -41,6 +41,7 @@ main:
     conference_short: CCS
     conference: ACM Conference on Computer and Communications Security (ACM CCS 2023) (CCF-A)
     pdf: /files/iOS_side_channel.pdf
+    page: https://sites.google.com/view/the-danger-of-minimum-exposure
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
@@ -86,7 +87,7 @@ main:
     authors: "&#91;Zhi Zhang, <u>Wei He</u>&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>, Yansong Gao*, Minghua Wang, Kang Li, Surya Nepal, Yang Xiang"
     journal_short: TIFS
     journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
-    pdf: https://ieeexplore.ieee.org/document/9664230
+    pdf: https://ieeexplore.ieee.org/document/9600809
 
   - title: "Practical and Efficient in-Enclave Verification of Privacy Compliance"
     authors: Weijie Liu, <strong>Wenhao Wang</strong>*, Hongbo Chen, XiaoFeng Wang*, Yaosong Lu, Kai Chen, Xinyu Wang, Qingtao Shen, Yi Chen, Haixu Tang 
