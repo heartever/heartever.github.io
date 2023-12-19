@@ -1,7 +1,7 @@
 main:
 
   - title: "PP-Stream: A Privacy-Preserving Neural Network Inference Service with Stream Processing"
-    authors: Qingxiu Liu, Qun Huang, Xiang Chen, Sa Wang, <strong>Wenhao Wang</strong>, Shujie Han, Patrick P. C. Lee
+    authors: Qingxiu Liu, Qun Huang*, Xiang Chen, Sa Wang, <strong>Wenhao Wang</strong>, Shujie Han, Patrick P. C. Lee
     conference_short: ICDE
     conference:  40th IEEE International Conference on Data Engineering (ICDE 2024) (CCF-A)
     notes: To appear
@@ -103,7 +103,7 @@ main:
     pdf: https://arxiv.org/pdf/2008.01957
     
   - title: "Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment"
-    authors: Jianping Zhu, Rui Hou, XiaoFeng Wang, <strong>Wenhao Wang</strong>, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang, Dan Meng
+    authors: Jianping Zhu, Rui Hou*, XiaoFeng Wang*, <strong>Wenhao Wang</strong>, Jiangfeng Cao, Boyan Zhao, Zhongpu Wang, Yuhui Zhang, Jiameng Ying, Lixin Zhang, Dan Meng
     conference_short: S&P
     conference: 2020 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
     pdf: /files/hetee.pdf
