@@ -7,10 +7,10 @@ main:
     notes: To appear
 
   - title: "Verifying Rust Implementation of Page Tables in a Software Enclave Hypervisor"
-    authors: Zhenyang Dai, Shoumeng Yan, Vilhelm Sjoberg, Yu Chen, <strong>Wenhao Wang</strong>, Hongbo Chen, XiaoFeng Wang, Shubham Sondhi, Laila Elbeheiry, Sean Noble Anderson, Xinyuan Sun, Zhaozhong Ni, Kinnary Dave, Xupeng Li, Yuekai Jia, Yu Zhang, Shuang Liu, Zhengyu He
+    authors: Zhenyang Dai, Shuang Liu, Vilhelm Sjoberg*, Xupeng Li, Yu Chen, <strong>Wenhao Wang</strong>, Yuekai Jia, Sean Noble Anderson, Laila Elbeheiry, Shubham Sondhi, Yu Zhang, Zhaozhong Ni, Shoumeng Yan*, Ronghui Gu, Zhengyu He
     conference_short: ASPLOS
     conference:  International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2024) (CCF-A)
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: /files/hyperenclave-formal.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
@@ -21,7 +21,7 @@ main:
     conference_short: HPCA
     conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A)
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
-#    code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/zhangxin00/segscope
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
     notes: To appear
