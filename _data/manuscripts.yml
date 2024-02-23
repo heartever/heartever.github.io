@@ -21,7 +21,7 @@ main:
     authors: <strong>Wenhao Wang</strong>, Yichen Jiang, Qintao Shen, Weihao Huang, Hao Chen, Shuang Wang, XiaoFeng Wang, Haixu Tang, Kai Chen, Kristin Lauter, Dongdai Lin
     conference_short: Arxiv
     conference: Arxiv
-    pdf: /files/hetee.pdf
+    pdf: https://arxiv.org/pdf/1905.07766.pdf
 #    conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A).
 #    pdf: https://arxiv.org/pdf/2306.00988.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
