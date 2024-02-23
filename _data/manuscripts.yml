@@ -1,6 +1,12 @@
 main:
+  - title: "NestedSGX: Bootstrapping Trust to Enclaves within Confidential VMs"
+    authors: <strong>Wenhao Wang</strong>*,  Linke Song, Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan, XiaoFeng Wang, Dan Meng, Rui Hou
+    conference_short: Arxiv
+    conference: Arxiv
+    pdf: https://arxiv.org/pdf/2402.11438.pdf
+
   - title: "virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone"
-    authors: Xiangyi Xu, <strong>Wenhao Wang</strong>*, Yongzheng Wu, Zhennan Min, Zixuan Pang, Yier Jin*
+    authors: Xiangyi Xu, <strong>Wenhao Wang</strong>*, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, Zhennan Min, Zixuan Pang, Rui Hou, Yier Jin*
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2306.11011.pdf
