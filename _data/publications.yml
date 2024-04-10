@@ -7,7 +7,7 @@ main:
     notes: To appear
 
   - title: "Cache attacks on subkey calculation of Blowfish"
-    authors: Haopeng Fan, <strong>Wenhao Wang</strong>*, Yongjuan Wang, Xiangbin Wang, Yang Gao" 
+    authors: Haopeng Fan, <strong>Wenhao Wang</strong>*, Yongjuan Wang, Xiangbin Wang, Yang Gao
     journal_short: JCS
     journal: Journal of Computer Security (JCS) (CCF-B)
     pdf: https://content.iospress.com/articles/journal-of-computer-security/jcs230052
