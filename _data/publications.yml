@@ -1,5 +1,17 @@
 main:
 
+  - title: "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts"
+    authors: Xin Zhang, Zhi Zhang, Qingni Shen, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Zhonghai Wu
+    conference_short: DAC
+    conference:  The 61st Design Automation Conference (DAC 2024) (CCF-A)
+    notes: To appear
+
+  - title: "Cache attacks on subkey calculation of Blowfish"
+    authors: Haopeng Fan, <strong>Wenhao Wang</strong>*, Yongjuan Wang, Xiangbin Wang, Yang Gao" 
+    journal_short: JCS
+    journal: Journal of Computer Security (JCS) (CCF-B)
+    pdf: https://content.iospress.com/articles/journal-of-computer-security/jcs230052
+
   - title: "PP-Stream: A Privacy-Preserving Neural Network Inference Service with Stream Processing"
     authors: Qingxiu Liu, Qun Huang*, Xiang Chen, Sa Wang, <strong>Wenhao Wang</strong>, Shujie Han, Patrick P. C. Lee
     conference_short: ICDE
@@ -24,7 +36,7 @@ main:
     code: https://github.com/zhangxin00/segscope
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
-    notes: To appear
+   # notes: To appear
     
   - title: "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection"
     authors: Zihao Wang, Di Tang*, XiaoFeng Wang, <u>Wei He</u>, <u>Zhaoyang Geng</u>, <strong>Wenhao Wang</strong>* 
