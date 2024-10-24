@@ -9,11 +9,10 @@ Dr. Wenhao Wang is an associate professor at [Institute of Information Engineeri
 **Please send an email to [wangwenhao@iie.ac.cn](mailto:wangwenhao@iie.ac.cn) if you would like to join the group. Students with interests in topics related to operating system/software/virtualization/hardware-assisted security/TEE/privacy preserving technologies/microarchitectural side channels etc., are all welcome.**
 
 ## News
-
-![letter](/images/news.png "news") **[Nov. 2023]** **A new paper is (conditionally) accepted to ASPLOS 2024. We propose _MIRVerif_, a framework for reasoning about idiomatic Rust in Coq, and use it to formally verify the correctness of the memory subsystem of HyperEnclave.**  
-![letter](/images/news.png "news") **[Oct. 2023]** **A new paper on side channel attacks is accepted to HPCA 2024. SegScope can be used to probe interrupts without relying on any timers.**  
-![letter](/images/news.png "news") **[Sept. 2023]** **A new paper on rowhammer attacks on gray-box DNNs is accepted to USENIX Security 2024.**  
-![letter](/images/news.png "news") **[Aug. 2023]** **A new paper on iOS side channel analysis is accepted to ACM CCS 2023.**  
+![letter](/images/news.png "news") **[Oct. 2024]** **A new paper is accepted to appear at NDSS 2025. We proposed NestedSGX, which supports existing SGX toolchains (the adapted SGX SDK and Occlum library OS) and runs SGX applications atop AMD SEV-SNP confidential VMs (CVMs).**  
+  
+  
+![letter](/images/news.png "news") **[July. 2023]** **A new paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). We showed that only 38, 40 and 39 power traces are enough to recover private key _s1_ of Dilithium 2, 3 and 5 with 100% of success rate.**  
 
 {% include_relative _includes/publications.md %}
 

@@ -1,10 +1,22 @@
 main:
+  - title: "The Road to Trust: Building Enclaves within Confidential VMs"
+    authors: <strong>Wenhao Wang</strong>, Linke Song, Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan*, XiaoFeng Wang, Dan Meng, Rui Hou*
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium (NDSS) 2025 (CCF-A)
+    pdf: https://arxiv.org/pdf/2402.11438
+    notes: To appear
+
+  - title: "Screening Least Square Technique assisted Multivariate Template Attack against the Random Polynomial Generation of Dilithium"
+    authors: Haopeng Fan, Hailong Zhang*, Yongjuan Wang*, <strong>Wenhao Wang</strong>, Yanbei Zhu, Haojin Zhang, Qingjun Yuan
+    journal_short: TIFS
+    journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
+    pdf: https://ieeexplore.ieee.org/document/10601705
 
   - title: "ThermalScope: A Practical Interrupt Side Channel Attack Based On Thermal Event Interrupts"
     authors: Xin Zhang, Zhi Zhang, Qingni Shen, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Zhonghai Wu
     conference_short: DAC
     conference:  The 61st Design Automation Conference (DAC 2024) (CCF-A)
-    notes: To appear
+  #  notes: To appear
 
   - title: "Cache attacks on subkey calculation of Blowfish"
     authors: Haopeng Fan, <strong>Wenhao Wang</strong>*, Yongjuan Wang, Xiangbin Wang, Yang Gao
@@ -16,7 +28,7 @@ main:
     authors: Qingxiu Liu, Qun Huang*, Xiang Chen, Sa Wang, <strong>Wenhao Wang</strong>, Shujie Han, Patrick P. C. Lee
     conference_short: ICDE
     conference:  40th IEEE International Conference on Data Engineering (ICDE 2024) (CCF-A)
-    notes: To appear
+  #  notes: To appear
 
   - title: "Verifying Rust Implementation of Page Tables in a Software Enclave Hypervisor"
     authors: Zhenyang Dai, Shuang Liu, Vilhelm Sjoberg*, Xupeng Li, Yu Chen, <strong>Wenhao Wang</strong>, Yuekai Jia, Sean Noble Anderson, Laila Elbeheiry, Shubham Sondhi, Yu Zhang, Zhaozhong Ni, Shoumeng Yan*, Ronghui Gu, Zhengyu He
@@ -26,7 +38,7 @@ main:
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
-    notes: To appear
+  #  notes: To appear
   
   - title: "SegScope: Probing Fine-grained Interrupts via Architectural Footprints"
     authors: "&#91;Xin Zhang, Zhi Zhang&#93;, Qingni Shen*, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang"
@@ -46,7 +58,7 @@ main:
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png
-    notes: To appear
+   # notes: To appear
 
   - title: "The Danger of Minimum Exposures: Understanding Cross-App Information Leaks on iOS through Multi-Side-Channel Learning"
     authors: "&#91;Zihao Wang, Jiale Guan&#93;, XiaoFeng Wang, <strong>Wenhao Wang</strong>, Luyi Xing, Fares Alharbi"

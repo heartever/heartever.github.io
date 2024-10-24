@@ -3,7 +3,8 @@ Courses
 * Paper Readings (2019-Spring, 20 hours)
 * Security Chips (2021-FALL, 2022-FALL, 40 hours)
 * Chip and Processor Security (2023-FALL, 40 hours, with Prof. [Mingzhe Zhang](https://mingzhe-zhang.github.io/))  
-* Paper Readings (2024-Spring, 30 hours, with Prof. [Ben Niu](https://people.ucas.ac.cn/~ben/)). Here are some [tips for paper reading and writing](/files/paper_reading_writing.pdf).
+* Paper Readings (2024-Spring, 30 hours, with Prof. [Ben Niu](https://people.ucas.ac.cn/~ben/)). Here are some [tips for paper reading and writing](/files/paper_reading_writing.pdf)
+* Chip and Processor Security (2024-FALL, 40 hours)
 
 Professional Services
 -----
@@ -32,23 +33,26 @@ Talks
 
 Students
 -----
-* Master students:      
-  - Jinze She
+* Master students:  
+  - Mingjie Zhang
+  - Xinhong Liu
+  - Saisai Xia    
   - Zhaoyang Geng
-  - Zhennan Min
-  - Huihao Zhang
-  - Linke Song
   
 * PhD students (unofficially advised by me):  
   - Benshan Mei
-  - Bohan Li
-  - Zihao Wang
  
 Alumni
 -----
-* Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))
+* Linke Song (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))  
+* Zhennan Min  
+* Huihao Zhang  
+* Jinze She  
+* Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))  
 * Wenwen Ruan (First job: Intel)  
 * Sitong Chen (First job: Shanghai Academy of Spaceflight Technology)  
+* Bohan Li  
+* Zihao Wang  
 
 Useful Links
 ------
@@ -59,4 +63,4 @@ Useful Links
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-Last updated: 2024/3/15.
+Last updated: Oct. 2024.
