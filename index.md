@@ -11,8 +11,8 @@ Dr. Wenhao Wang is an associate professor at [Institute of Information Engineeri
 ## News
 ![letter](/images/news.png "news") **[Oct. 2024]** **A new paper is accepted to appear at NDSS 2025. We proposed NestedSGX, which supports existing SGX toolchains (the adapted SGX SDK and Occlum library OS) and runs SGX applications atop AMD SEV-SNP confidential VMs (CVMs).**  
   
-  
-![letter](/images/news.png "news") **[July. 2023]** **A new paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). We showed that only 38, 40 and 39 power traces are enough to recover private key _s1_ of Dilithium 2, 3 and 5 with 100% of success rate.**  
+
+![letter](/images/news.png "news") **[July. 2024]** **A new paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). We showed that only 38, 40 and 39 power traces are enough to recover private key _s1_ of Dilithium 2, 3 and 5 with 100% of success rate.**  
 
 {% include_relative _includes/publications.md %}
 
