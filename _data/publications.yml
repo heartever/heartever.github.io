@@ -1,10 +1,15 @@
 main:
+  - title: "Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity"
+    authors: Guang Yan, Yuhui Zhang, Zimu Guo, Lutan Zhao, Xiaojun Chen, Chen Wang, <strong>Wenhao Wang</strong>, Dan Meng, Rui Hou
+    conference_short: S&P
+    conference: 2025 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
+    notes: To appear
+
   - title: "The Road to Trust: Building Enclaves within Confidential VMs"
     authors: <strong>Wenhao Wang</strong>, Linke Song, Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan*, XiaoFeng Wang, Dan Meng, Rui Hou*
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium (NDSS) 2025 (CCF-A)
-    pdf: https://arxiv.org/pdf/2402.11438
-    notes: To appear
+    pdf: https://www.ndss-symposium.org/wp-content/uploads/2025-385-paper.pdf
 
   - title: "Screening Least Square Technique assisted Multivariate Template Attack against the Random Polynomial Generation of Dilithium"
     authors: Haopeng Fan, Hailong Zhang*, Yongjuan Wang*, <strong>Wenhao Wang</strong>, Yanbei Zhu, Haojin Zhang, Qingjun Yuan
