@@ -37,9 +37,9 @@ Students
   - Mingjie Zhang
   - Xinhong Liu
   - Saisai Xia    
-  - Zhaoyang Geng
   
-* PhD students (unofficially advised by me):  
+* PhD students:  
+  - Guang Yan
   - Benshan Mei
  
 Alumni
@@ -53,6 +53,7 @@ Alumni
 * Sitong Chen (First job: Shanghai Academy of Spaceflight Technology)  
 * Bohan Li  
 * Zihao Wang  
+* Zhaoyang Geng
 
 Useful Links
 ------
