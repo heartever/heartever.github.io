@@ -4,7 +4,7 @@ Courses
 * Security Chips (2021-FALL, 2022-FALL, 40 hours)
 * Chip and Processor Security (2023-FALL, 40 hours, with Prof. [Mingzhe Zhang](https://mingzhe-zhang.github.io/))  
 * Paper Readings (2024-Spring, 30 hours, with Prof. [Ben Niu](https://people.ucas.ac.cn/~ben/)). Here are some [tips for paper reading and writing](/files/paper_reading_writing.pdf)
-* Chip and Processor Security (2024-FALL, 40 hours)
+* Chip and Processor Security (2024-FALL, 2025-FALL, 40 hours)
 
 Professional Services
 -----
@@ -16,44 +16,31 @@ Professional Services
 Awards
 -----
 * 2018 ACM SIGSAC China Rising Star Award, and ACM China Rising Star Nomination Award
-* 2017 Young Star Award of Institute of Information Engineering, CAS
-
-Talks
------
-* [看懂可信执行环境硬件设计 - 浅析TEE的内存加密和完整性保护机制](/files/understanding_tee_design.pdf) 隐私计算联盟安全研讨会
-* [A breif introduction to scalable SGX](/files/scalable_sgx_public.pdf)
-* [可信硬件与密码学的一些思考](/files/trusted-hardware-crypto.pdf)
-* [硬件安全问题及防护](/files/hardwaresecurity.pdf)
-* [Mitigating side channels in SGX with software only methods (in Chinese)](/files/hyperrace_chip.pdf)
-* [Enabling Rack-scale Confidential Computing using Heterogeneous Trusted Execution Environment](/files/HETEE_slides.pdf)
-* China Conference on Data Security and Privacy (ChinaPrivacy2019), Oct. 2019, Guilin, [Confidential Computing, in Chinese](/files/ConfidentialComputing-Guilin.pdf)  
-* Nankai University, July 2019, Tianjin, [Confidential Computing, in Chinese](/files/ConfidentialComputing-tianjin.pdf)  
-* Institute of Software, July 2019, Beijing  
-* ACM TURC 2019 (SIGSAC), May 2019, Chengdu, [Side Channel Risks in Hardware Trusted Execution Environments (TEEs)](/files/SideChannelRisks.pdf)  
+* 2017 Young Star Award of Institute of Information Engineering, CAS 
 
 Students
 -----
 * Master students:  
-  - Mingjie Zhang
+  - Yifan Bai
   - Xinhong Liu
   - Saisai Xia    
   
 * PhD students:  
-  - Guang Yan
-  - Benshan Mei
+  - Linke Song (Co-advised with Prof. [Wei Song](https://wsong83.github.io/)) 
  
 Alumni
 -----
-* Linke Song (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))  
 * Zhennan Min  
 * Huihao Zhang  
 * Jinze She  
 * Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))  
 * Wenwen Ruan (First job: Intel)  
 * Sitong Chen (First job: Shanghai Academy of Spaceflight Technology)  
-* Bohan Li  
-* Zihao Wang  
+* Bohan Li (Co-advised with Prof. Dongdai Lin)
+* Zihao Wang (Co-advised with Prof. XiaoFeng Wang)
 * Zhaoyang Geng
+* Benshan Mei (Co-advised with Prof. Dongdai Lin)
+* Haopeng Fan (visiting student from Henan Key Laboratory of Network Cryptography Technology)
 
 Useful Links
 ------
@@ -64,4 +51,4 @@ Useful Links
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-Last updated: Oct. 2024.
+Last updated: Aug. 2025.

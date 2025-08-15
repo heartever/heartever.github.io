@@ -4,6 +4,8 @@ main:
     conference_short: Arxiv
     conference: Arxiv
     pdf: https://arxiv.org/pdf/2409.20002
+    code: https://github.com/Maxppddcsz/llm-sidechannel
+    page: https://sites.google.com/view/early-bird-catches-the-leak/
 
   - title: "virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone"
     authors: Xiangyi Xu, <strong>Wenhao Wang</strong>*, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, Zhennan Min, Zixuan Pang, Rui Hou, Yier Jin*

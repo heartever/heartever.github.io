@@ -1,18 +1,33 @@
 main:
-  - title: "Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity"
-    authors: Guang Yan, Yuhui Zhang, Zimu Guo, Lutan Zhao, Xiaojun Chen, Chen Wang, <strong>Wenhao Wang</strong>, Dan Meng, Rui Hou
-    conference_short: S&P
-    conference: 2025 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
+  - title: "CryptPEFT: Efficient and Private Neural Network Inference via Parameter-Efficient Fine-Tuning"
+    authors: <u>Saisai Xia</u>, <strong>Wenhao Wang*</strong>, Zihao Wang*, Yuhui Zhang, Yier Jin, Dan Meng, Rui Hou
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium (NDSS) 2026 (CCF-A)
+  #  pdf: https://www.ndss-symposium.org/wp-content/uploads/2025-385-paper.pdf
+    code: https://anonymous.4open.science/r/CryptPEFT-8405
     notes: To appear
 
+  - title: "Multivariate Template Attack against NTT based Polynomial Multiplication of Dilithium"
+    authors: <u>Haopeng Fan</u>, Hailong Zhang*, Yongjuan Wang*, <strong>Wenhao Wang</strong>, Haojin Zhang, Qingjun Yuan
+    journal_short: TIFS
+    journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
+    pdf: https://ieeexplore.ieee.org/document/11124301/
+  
+  - title: "Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity"
+    authors: Guang Yan, Yuhui Zhang*, Zimu Guo, Lutan Zhao, Xiaojun Chen, Chen Wang, <strong>Wenhao Wang</strong>, Dan Meng, Rui Hou*
+    conference_short: S&P
+    conference: 2025 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
+    #notes: To appear
+
   - title: "The Road to Trust: Building Enclaves within Confidential VMs"
-    authors: <strong>Wenhao Wang</strong>, Linke Song, Benshan Mei, Shuang Liu, Shijun Zhao, Shoumeng Yan*, XiaoFeng Wang, Dan Meng, Rui Hou*
+    authors: <strong>Wenhao Wang</strong>, <u>Linke Song</u>, <u>Benshan Mei</u>, Shuang Liu, Shijun Zhao, Shoumeng Yan*, XiaoFeng Wang, Dan Meng, Rui Hou*
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium (NDSS) 2025 (CCF-A)
     pdf: https://www.ndss-symposium.org/wp-content/uploads/2025-385-paper.pdf
+    code: https://github.com/NestedSGX/nestedsgx-ndss25-ae
 
   - title: "Screening Least Square Technique assisted Multivariate Template Attack against the Random Polynomial Generation of Dilithium"
-    authors: Haopeng Fan, Hailong Zhang*, Yongjuan Wang*, <strong>Wenhao Wang</strong>, Yanbei Zhu, Haojin Zhang, Qingjun Yuan
+    authors: <u>Haopeng Fan</u>, Hailong Zhang*, Yongjuan Wang*, <strong>Wenhao Wang</strong>, Yanbei Zhu, Haojin Zhang, Qingjun Yuan
     journal_short: TIFS
     journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
     pdf: https://ieeexplore.ieee.org/document/10601705
@@ -24,7 +39,7 @@ main:
   #  notes: To appear
 
   - title: "Cache attacks on subkey calculation of Blowfish"
-    authors: Haopeng Fan, <strong>Wenhao Wang</strong>*, Yongjuan Wang, Xiangbin Wang, Yang Gao
+    authors: <u>Haopeng Fan</u>, <strong>Wenhao Wang*</strong>, Yongjuan Wang, Xiangbin Wang, Yang Gao
     journal_short: JCS
     journal: Journal of Computer Security (JCS) (CCF-B)
     pdf: https://content.iospress.com/articles/journal-of-computer-security/jcs230052
@@ -56,7 +71,7 @@ main:
    # notes: To appear
     
   - title: "Tossing in the Dark: Practical Bit-Flipping on Gray-box Deep Neural Networks for Runtime Trojan Injection"
-    authors: Zihao Wang, Di Tang*, XiaoFeng Wang, <u>Wei He</u>, <u>Zhaoyang Geng</u>, <strong>Wenhao Wang</strong>* 
+    authors: <u>Zihao Wang</u>, Di Tang*, XiaoFeng Wang, <u>Wei He</u>, <u>Zhaoyang Geng</u>, <strong>Wenhao Wang*</strong> 
     conference_short: Security
     conference: USENIX Security 2024 (CCF-A)
     pdf: /files/groan.pdf
@@ -66,7 +81,7 @@ main:
    # notes: To appear
 
   - title: "The Danger of Minimum Exposures: Understanding Cross-App Information Leaks on iOS through Multi-Side-Channel Learning"
-    authors: "&#91;Zihao Wang, Jiale Guan&#93;, XiaoFeng Wang, <strong>Wenhao Wang</strong>, Luyi Xing, Fares Alharbi"
+    authors: "&#91;<u>Zihao Wang</u>, Jiale Guan&#93;, XiaoFeng Wang, <strong>Wenhao Wang</strong>, Luyi Xing, Fares Alharbi"
     conference_short: CCS
     conference: ACM Conference on Computer and Communications Security (ACM CCS 2023) (CCF-A)
     pdf: /files/iOS_side_channel.pdf
@@ -77,7 +92,7 @@ main:
     #notes: To appear
 
   - title: "WhistleBlower: A System-level Empirical Study on RowHammer"
-    authors: "&#91;<u>Wei He</u>, Zhi Zhang&#93;, Yueqiang Cheng, <strong>Wenhao Wang</strong>*, Wei Song, Yansong Gao, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal" 
+    authors: "&#91;<u>Wei He</u>, Zhi Zhang&#93;, Yueqiang Cheng, <strong>Wenhao Wang*</strong>, Wei Song, Yansong Gao, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal" 
     journal_short: TC
     journal: IEEE Transactions on Computers (TC) (CCF-A)
     pdf: /files/whistleblower.pdf
@@ -93,21 +108,22 @@ main:
     pdf: https://ieeexplore.ieee.org/abstract/document/9919335/
 
   - title: "HyperEnclave: An Open and Cross-platform Trusted Execution Environment"
-    authors: Yuekai Jia, Shuang Liu, <strong>Wenhao Wang</strong>*, Yu Chen, Zhengde Zhai, Shoumeng Yan, Zhengyu He 
+    authors: Yuekai Jia, Shuang Liu, <strong>Wenhao Wang*</strong>, Yu Chen, Zhengde Zhai, Shoumeng Yan, Zhengyu He 
     conference_short: ATC
     conference: 2022 USENIX Annual Technical Conference (USENIX ATC) (CCF-A)
     pdf: https://www.usenix.org/system/files/atc22-jia-yuekai.pdf
     slides: https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_jia_yuekai.pdf
+    code: https://github.com/HyperEnclave/hyperenclave
 
   - title: "SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh"
-    authors: "&#91;Zhi Zhang, Yueqiang Cheng&#93;, Minghua Wang, <u>Wei He</u>, <strong>Wenhao Wang</strong>*, Nepal Surya, Yansong Gao, Kang Li, Zhe Wang, Chenggang Wu"
+    authors: "&#91;Zhi Zhang, Yueqiang Cheng&#93;, Minghua Wang, <u>Wei He</u>, <strong>Wenhao Wang*</strong>, Nepal Surya, Yansong Gao, Kang Li, Zhe Wang, Chenggang Wu"
     conference_short: ATC
     conference: 2022 USENIX Annual Technical Conference (USENIX ATC) (CCF-A)
     pdf: https://www.usenix.org/system/files/atc22-zhang-zhi.pdf
     slides: https://www.usenix.org/sites/default/files/conference/protected-files/atc22_slides_zhang-zhi.pdf
 
   - title: "Trust Beyond Border: Lightweight, Verifiable User Isolation for Protecting In-Enclave Services"
-    authors: <strong>Wenhao Wang</strong>*, Weijie Liu, Hongbo Chen, XiaoFeng Wang, Hongliang Tian, Dongdai Lin
+    authors: <strong>Wenhao Wang*</strong>, Weijie Liu, Hongbo Chen, XiaoFeng Wang, Hongliang Tian, Dongdai Lin
     journal_short: TDSC
     journal: IEEE Transactions on Dependable and Secure Computing (TDSC) (CCF-A)
     pdf: https://ieeexplore.ieee.org/document/9664230
@@ -119,7 +135,7 @@ main:
     pdf: https://ieeexplore.ieee.org/document/9600809
 
   - title: "Practical and Efficient in-Enclave Verification of Privacy Compliance"
-    authors: Weijie Liu, <strong>Wenhao Wang</strong>*, Hongbo Chen, XiaoFeng Wang*, Yaosong Lu, Kai Chen, Xinyu Wang, Qingtao Shen, Yi Chen, Haixu Tang 
+    authors: Weijie Liu, <strong>Wenhao Wang*</strong>, Hongbo Chen, XiaoFeng Wang*, Yaosong Lu, Kai Chen, Xinyu Wang, Qingtao Shen, Yi Chen, Haixu Tang 
     conference_short: DSN
     conference: 51st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2021) (CCF-B)
     pdf: https://heartever.github.io/files/confidential_attestation.pdf
@@ -138,7 +154,7 @@ main:
     pdf: /files/hetee.pdf
 
   - title: "Bluethunder: A 2-level Directional Predictor Based Side-Channel Attack against SGX"
-    authors: Tianlin Huo, Xiaoni Meng, <strong>Wenhao Wang</strong>*, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li* 
+    authors: Tianlin Huo, Xiaoni Meng, <strong>Wenhao Wang*</strong>, Chunliang Hao, Pei Zhao, Jian Zhai, Mingshu Li* 
     conference_short: TCHES
     conference: IACR Transactions on Cryptographic Hardware and Embedded Systems (CHES 2020) (CCF-B)
     pdf: /files/bluethunder_sgx_ches.pdf
@@ -156,7 +172,7 @@ main:
     pdf: /files/correlation.pdf
     
   - title: "Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races"
-    authors: "&#91;Guoxing Chen, <strong>Wenhao Wang</strong>*&#93;, Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin"
+    authors: "&#91;Guoxing Chen, <strong>Wenhao Wang*</strong>&#93;, Tianyu Chen, Sanchuan Chen, Yinqian Zhang, XiaoFeng Wang, Ten-Hwang Lai, Dongdai Lin"
     conference_short: S&P
     conference: 2018 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
     pdf: /files/racing.pdf
