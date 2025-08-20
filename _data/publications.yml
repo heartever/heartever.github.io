@@ -3,7 +3,7 @@ main:
     authors: <u>Saisai Xia</u>, <strong>Wenhao Wang*</strong>, Zihao Wang*, Yuhui Zhang, Yier Jin, Dan Meng, Rui Hou
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium (NDSS) 2026 (CCF-A)
-  #  pdf: https://www.ndss-symposium.org/wp-content/uploads/2025-385-paper.pdf
+    pdf: https://arxiv.org/pdf/2508.12264
     code: https://anonymous.4open.science/r/CryptPEFT-8405
     notes: To appear
 
