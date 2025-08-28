@@ -4,7 +4,7 @@ main:
     conference_short: NDSS
     conference: Network and Distributed System Security Symposium (NDSS) 2026 (CCF-A)
     pdf: https://arxiv.org/pdf/2508.12264
-    code: https://anonymous.4open.science/r/CryptPEFT-8405
+    code: https://github.com/Saisai-Xia/CryptPEFT
     notes: To appear
 
   - title: "Multivariate Template Attack against NTT based Polynomial Multiplication of Dilithium"
@@ -17,6 +17,7 @@ main:
     authors: Guang Yan, Yuhui Zhang*, Zimu Guo, Lutan Zhao, Xiaojun Chen, Chen Wang, <strong>Wenhao Wang</strong>, Dan Meng, Rui Hou*
     conference_short: S&P
     conference: 2025 IEEE Symposium on Security and Privacy (S&P) (CCF-A)
+    pdf: https://arxiv.org/pdf/2505.07239
     #notes: To appear
 
   - title: "The Road to Trust: Building Enclaves within Confidential VMs"
