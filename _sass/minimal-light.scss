@@ -458,7 +458,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1180px) {
 
   .pub-row {
   display: flex; 
@@ -477,7 +477,7 @@ footer {
   }
 
   header {
-    padding-right:320px;
+    padding-right:0px;
   }
 
   section {
@@ -604,7 +604,7 @@ body {
 
 
 
-@media screen and (max-width: 1160px) {
+@media screen and (max-width: 1180px) {
   body {
     font-size: 17px;
   }
