@@ -96,3 +96,15 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   width: auto;
   box-shadow: none;
 }
+
+@media screen and (max-width: 1180px) {
+  .publications ol.bibliography li {
+    margin-bottom: 1.5rem;    /* 移动端更紧凑 */
+  }
+
+  .publications ol.bibliography li .abbr {
+    display: block;           /* 确保独占一行 */
+    margin-bottom: 0.75rem;   /* 略加间距以防压缩重叠 */
+    font-size: 0.9rem;        /* 可略缩小字号 */
+  }
+}
