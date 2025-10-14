@@ -102,9 +102,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
     margin-bottom: 1.5rem;    /* 移动端更紧凑 */
   }
 
-  .publications ol.bibliography li .abbr {
-    display: block;           /* 确保独占一行 */
-    margin-bottom: 0.75rem;   /* 略加间距以防压缩重叠 */
-    font-size: 0.9rem;        /* 可略缩小字号 */
+ .publications ol.bibliography li .abbr {
+    display: none !important;
   }
 }
