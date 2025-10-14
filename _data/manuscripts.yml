@@ -1,12 +1,4 @@
 main:
-  - title: "The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems"
-    authors: "&#91;<u>Linke Song</u>, Zixuan Pang&#93;, <strong>Wenhao Wang</strong>*, Zihao Wang, XiaoFeng Wang, Hongbo Chen, Wei Song, Yier Jin, Dan Meng, Rui Hou"
-    conference_short: Arxiv
-    conference: Arxiv
-    pdf: https://arxiv.org/pdf/2409.20002
-    code: https://github.com/Maxppddcsz/llm-sidechannel
-    page: https://sites.google.com/view/early-bird-catches-the-leak/
-
   - title: "virtCCA: Virtualized Arm Confidential Compute Architecture with TrustZone"
     authors: Xiangyi Xu, <strong>Wenhao Wang</strong>*, Yongzheng Wu, Chenyu Wang, Huifeng Zhu, Haocheng Ma, <u>Zhennan Min</u>, Zixuan Pang, Rui Hou, Yier Jin*
     conference_short: Arxiv

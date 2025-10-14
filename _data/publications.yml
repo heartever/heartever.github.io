@@ -1,4 +1,12 @@
 main:
+  - title: "The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems"
+    authors: "&#91;<u>Linke Song</u>, Zixuan Pang&#93;, <strong>Wenhao Wang</strong>*, Zihao Wang, XiaoFeng Wang, Hongbo Chen, Wei Song, Yier Jin, Dan Meng, Rui Hou"
+    journal_short: TIFS
+    journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
+    pdf: https://arxiv.org/pdf/2409.20002
+    code: https://github.com/Maxppddcsz/llm-sidechannel
+    page: https://sites.google.com/view/early-bird-catches-the-leak/
+
   - title: "CryptPEFT: Efficient and Private Neural Network Inference via Parameter-Efficient Fine-Tuning"
     authors: <u>Saisai Xia</u>, <strong>Wenhao Wang*</strong>, Zihao Wang*, Yuhui Zhang, Yier Jin, Dan Meng, Rui Hou
     conference_short: NDSS
