@@ -11,11 +11,13 @@ Dr. Wenhao Wang is an associate professor at [Institute of Information Engineeri
 <span style="color: blue; font-size: 18px">Due to the institute’s policy, I am currently unable to accept international students.</span>
 
 ## News
-![letter](/images/news.png "news") **[Oct. 2025]** **One paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). The paper reveals novel timing side channels in LLM inference arising from shared KV and semantic caches, demonstrates practical attacks that recover private and system prompts through timing-based inference, and highlights the urgent need for mitigation against such privacy threats in multi-user LLM deployments.**
 
-![letter](/images/news.png "news") **[Aug. 2025]** **Two papers on efficient and privacy-preserving neural network inference have been accepted for presentation at S&P 2025 and NDSS 2026. The first paper leverages sparsity in Transformers to reduce computational costs, while the second introduces performance-efficient fine-tuning (PEFT) adapters specifically designed for private inference.**
-
-![letter](/images/news.png "news") **[Aug. 2025]** **One paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). The paper demonstrates that the leakage in Dilithium’s NTT-based polynomial multiplication can be effectively exploited in template attacks, and proposes a multivariate template attack to significantly improve key-recovery efficiency in both simulated and real-world settings.**
+> * **[Oct. 2025]** One paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). The paper reveals novel timing side channels in LLM inference arising from shared KV and semantic caches, demonstrates practical attacks that recover private and system prompts through timing-based inference, and highlights the urgent need for mitigation against such privacy threats in multi-user LLM deployments.
+>
+> * **[Aug. 2025]** Two papers on efficient and privacy-preserving neural network inference have been accepted for presentation at S&P 2025 and NDSS 2026. The first paper leverages sparsity in Transformers to reduce computational costs, while the second introduces performance-efficient fine-tuning (PEFT) adapters specifically designed for private inference.
+>
+> * **[Aug. 2025]** One paper on side channel attacks is accepted by IEEE Transactions on Information Forensics and Security (TIFS). The paper demonstrates that the leakage in Dilithium’s NTT-based polynomial multiplication can be effectively exploited in template attacks, and proposes a multivariate template attack to significantly improve key-recovery efficiency in both simulated and real-world settings.
+{: .box }
 
 {% include_relative _includes/publications.md %}
 

@@ -609,3 +609,49 @@ body {
     font-size: 17px;
   }
 }
+
+/* custom.scss */
+.box {
+  border: 1px solid #516b86;
+  background-color: #f9f9ff;
+  padding: 0.2em;
+  border-radius: 1px;
+  margin: 0.5em 0;
+  font-style: normal !important;   /* Remove italic style */
+  font-size: 17px;
+  color: inherit;                  /* Use normal text color */
+}
+
+/* Remove default blockquote look when using .box */
+.box blockquote {
+  background: #f9f9ff;             /* Light background */
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none;
+}
+
+/* 让段落之间的间距更自然 */
+.box p {
+  margin: 0.3em 0 !important;
+  line-height: 1.5;
+}
+
+/* 去掉框底部的额外留白 */
+.box > :last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* === 修复 box 内部列表左侧缩进过大问题 === */
+.box ul,
+.box ol {
+  padding-left: 1.2em !important;  /* 原默认是 40px，这里紧凑一些 */
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+/* 调整列表项间距，让排版更紧凑自然 */
+.box li {
+  margin: 0.2em 0;
+  line-height: 1.5;
+}
