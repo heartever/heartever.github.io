@@ -1,9 +1,18 @@
 main:
+
+  - title: "Characterizing Trust Boundary Vulnerabilities in TEE Container Systems: An Empirical Study"
+    authors: [Weijie Liu, Hongbo Chen], Shuo Huai, Zhen Xu, <strong>Wenhao Wang</strong>*, XiaoFeng Wang, Danfeng Zhang, Zhi Li, Haixu Tang, Zheli Liu*
+    conference_short: FSE
+    conference: ACM International Conference on the Foundations of Software Engineering (FSE 2026) (CCF-A)
+    pdf: https://arxiv.org/pdf/2508.20962
+    page: https://sites.google.com/view/tee-container/home
+
+
   - title: "The Early Bird Catches the Leak: Unveiling Timing Side Channels in LLM Serving Systems"
     authors: "&#91;<u>Linke Song</u>, Zixuan Pang&#93;, <strong>Wenhao Wang</strong>*, Zihao Wang, XiaoFeng Wang, Hongbo Chen, Wei Song, Yier Jin, Dan Meng, Rui Hou"
     journal_short: TIFS
     journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
-    pdf: https://arxiv.org/pdf/2409.20002
+    pdf: https://ieeexplore.ieee.org/abstract/document/11206380
     code: https://github.com/Maxppddcsz/llm-sidechannel
     page: https://sites.google.com/view/early-bird-catches-the-leak/
 
@@ -13,7 +22,6 @@ main:
     conference: Network and Distributed System Security Symposium (NDSS) 2026 (CCF-A)
     pdf: https://arxiv.org/pdf/2508.12264
     code: https://github.com/Saisai-Xia/CryptPEFT
-    notes: To appear
 
   - title: "Multivariate Template Attack against NTT based Polynomial Multiplication of Dilithium"
     authors: <u>Haopeng Fan</u>, Hailong Zhang*, Yongjuan Wang*, <strong>Wenhao Wang</strong>, Haojin Zhang, Qingjun Yuan
@@ -73,7 +81,7 @@ main:
     authors: "&#91;Xin Zhang, Zhi Zhang&#93;, Qingni Shen*, <strong>Wenhao Wang</strong>, Yansong Gao, Zhuoxi Yang, Jiliang Zhang"
     conference_short: HPCA
     conference: 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA 2024) (CCF-A)
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://ieeexplore.ieee.org/document/10476480
     code: https://github.com/zhangxin00/segscope
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
    # image: ./assets/img/teaser_example_2.png

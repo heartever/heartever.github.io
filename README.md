@@ -91,6 +91,9 @@ cd minimal-light
 Install and run:
 
 ```bash
+sudo apt install build-essential ruby-dev
+sudo apt install libyajl-dev
+gem install yajl-ruby -v '~> 1.4'
 bundle install
 bundle add webrick
 bundle exec jekyll server --host=0.0.0.0

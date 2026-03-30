@@ -12,6 +12,8 @@ Dr. Wenhao Wang is an associate professor at [Institute of Information Engineeri
 
 ## News
 
+> * **[March 2026]** One paper on TEE container security has been accepted for presentation at FSE 2026, presenting the first comprehensive analysis of TEE containers across OS interfaces, encrypted I/O, and orchestration layers. The paper introduces an automated analysis tool, TBouncer, and uncovers multiple critical vulnerabilities, including 6 attack vectors, 12 new bugs, and 3 CVEs.
+
 > * **[Nov. 2025]** Congratulations to Saisai Xia on receiving the 2025 Director’s Special Award (所长特别奖) and the 2025 Huawei Cybersecurity Scholarship (华为网安奖学金).
 >
 > * **[Oct. 2025]** One paper on side-channel attacks has been accepted by IEEE Transactions on Information Forensics and Security (TIFS). The paper reveals novel timing side channels in LLM inference arising from shared KV and semantic caches, demonstrates practical attacks that recover private and system prompts through timing-based inference, and highlights the urgent need for mitigation against such privacy threats in multi-user LLM deployments. Following our findings, several LLM API providers (including OpenAI, Azure, and Fireworks) have implemented mitigations for these timing vulnerabilities, such as disabling global cache sharing across organizations and updating their documentation.
