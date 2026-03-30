@@ -30,8 +30,8 @@ Students
  
 Alumni
 -----
-* Zhennan Min  
-* Huihao Zhang  
+* Zhennan Min (Li Auto) 
+* Huihao Zhang (First Research Institute of the Ministry of Public Security of PRC)
 * Jinze She  
 * Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))  
 * Wenwen Ruan (First job: Intel)  
