@@ -1,7 +1,7 @@
 main:
 
   - title: "Characterizing Trust Boundary Vulnerabilities in TEE Container Systems: An Empirical Study"
-    authors: "&#91;Weijie Liu, Hongbo Chen"&#93;, Shuo Huai, Zhen Xu, <strong>Wenhao Wang</strong>*, XiaoFeng Wang, Danfeng Zhang, Zhi Li, Haixu Tang, Zheli Liu*
+    authors: "&#91;Weijie Liu, Hongbo Chen"&#93;, Shuo Huai, Zhen Xu, <strong>Wenhao Wang</strong>*, XiaoFeng Wang*, Danfeng Zhang, Zhi Li, Haixu Tang, Zheli Liu*
     conference_short: FSE
     conference: ACM International Conference on the Foundations of Software Engineering (FSE 2026) (CCF-A)
     pdf: https://arxiv.org/pdf/2508.20962
