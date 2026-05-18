@@ -1,4 +1,10 @@
 main:
+  - title: "Enjoy the Free Lunch, Someone Paid for Us: Escaping Resource Limits of MicroVM-based Containers"
+    authors: Shiwen Wang, Wu Luo*, Kaicheng Liu, Zheyuan Xu, Yaowen Zheng, <strong>Wenhao Wang</strong>, Shijun Zhao, Peinan Li, Rui Hou*
+    conference_short: Security
+    conference: USENIX Security 2026 (CCF-A)
+    notes: To appear
+
   - title: "Improving Counting Thread Consistency via Differential Measurement and Abating Frequency Variance on Modern Xeon Processors"
     authors: Wei He, Wei Song*, Da Xie, Hao Ma, Yusi Feng, <strong>Wenhao Wang</strong>
     conference_short: DIMVA
