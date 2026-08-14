@@ -9,6 +9,8 @@ main:
     authors: Shiwen Wang, Wu Luo*, Kaicheng Liu, Zheyuan Xu, Yaowen Zheng, <strong>Wenhao Wang</strong>, Shijun Zhao, Peinan Li, Rui Hou*
     conference_short: Security
     conference: USENIX Security 2026 (CCF-A)
+    pdf: https://www.usenix.org/system/files/usenixsecurity26-wang-shiwen.pdf
+    code: https://zenodo.org/doi/10.5281/zenodo.20279307
     notes: Distinguished Paper Award Runners-Up
 
   - title: "Improving Counting Thread Consistency via Differential Measurement and Abating Frequency Variance on Modern Xeon Processors"
