@@ -15,7 +15,8 @@ Dr. Wenhao Wang is an associate professor at [Institute of Information Engineeri
 > * **[Aug. 2026]** I will be serving as a Program Committee (PC) member for USENIX Security 2027.
 >
 > * **[March 2026]** One paper on TEE container security has been accepted for presentation at FSE 2026, presenting the first comprehensive analysis of TEE containers across OS interfaces, encrypted I/O, and orchestration layers. The paper introduces an automated analysis tool, TBouncer, and uncovers multiple critical vulnerabilities, including 6 attack vectors, 12 new bugs, and 3 CVEs.
-
+>
+> * **[Nov. 2025]** Congratulations to Saisai Xia on receiving the 2025 Director’s Special Award (所长特别奖) and the 2025 Huawei Cybersecurity Scholarship (华为网安奖学金).
 {: .box }
 
 {% include_relative _includes/publications.md %}
