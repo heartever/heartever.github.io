@@ -5,14 +5,14 @@ Courses
 * Security Chips (2021-FALL, 2022-FALL, 40 hours)
 * Chip and Processor Security (2023-FALL, 40 hours, with Prof. [Mingzhe Zhang](https://mingzhe-zhang.github.io/))
 * Paper Readings (2024-Spring, 30 hours, with Prof. [Ben Niu](https://people.ucas.ac.cn/~ben/)). Here are some [tips for paper reading and writing](/files/paper_reading_writing.pdf)
-* Chip and Processor Security (2024-FALL, 2025-FALL, 40 hours)
+* Chip and Processor Security (2024-FALL, 2025-FALL, 2026-FALL, 40 hours)
 
 Professional Services
 ---------------------
 
 * Reviewer for journals *IEEE TDSC*, *IEEE Security & Privacy*, *IEEE TC*, *ACM Transactions on Privacy and Security*, *CyberSecurity*, *SCN*, *JNCA*.
 * Sub-reviewer for *CCS* (2018, 2020), *NDSS* (2017, 2018, 2021), *S&P* (2017, 2020, 2021), *Usenix Security* (2017, 2018, 2021), *HPCA* (2019), *ESORICS* (2018, 2020), Asiacrypt (2020), *AsiaCCS* (2017, 2018, 2019) and *RECOMB* (2019) etc.
-* TPC member for *ACM CCS 2019*, *GenoPri 2020*, *SECURWARE 2022*, *ACNS 2023*.
+* TPC member for *USENIX Security 2027*, *ACM CCS 2019*, *GenoPri 2020*, *SECURWARE 2022*, *ACNS 2023*.
 * General Chair for *Inscrypt 2022*.
 
 Awards
@@ -27,15 +27,17 @@ Students
 * Master students:
 
   - Yifan Bai
-  - Xinhong Liu
-  - Saisai Xia
+
 * PhD students:
 
-  - Linke Song (Co-advised with Prof. [Wei Song](https://wsong83.github.io/))
+  - Linke Song (Co-advised with Prof. Rui Hou)
+  - Xinhong Liu (Co-advised with Prof. Rui Hou)
+  - Zhuxin Yang (Co-advised with Prof. Rui Hou)
 
 Alumni
 ------
 
+* Saisai Xia
 * Zhennan Min (Li Auto)
 * Huihao Zhang (First Research Institute of the Ministry of Public Security of PRC)
 * Jinze She
@@ -58,4 +60,4 @@ Useful Links
 * [System Security Circus](http://s3.eurecom.fr/~balzarot/notes/top4_2018/)
 * [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 
-Last updated: Aug. 2026.
+Last updated: Oct. 2026.
