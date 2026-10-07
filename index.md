@@ -4,11 +4,15 @@ layout: homepage
 
 ## Biography 
 
-Dr. Wenhao Wang is an associate professor at [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/), CAS. His research interests now focus on protecting user privacy data with the help of hardware features, such as [Intel SGX](https://software.intel.com/en-us/sgx), as well as cryptographic techniques (e.g., homomorphic encryption). Dr. Wenhao Wang was a visiting scholar of [Prof. XiaoFeng Wang](https://www.informatics.indiana.edu/xw7/)'s group in [Indiana University Bloomington](https://www.indiana.edu/) from April 2016 to August 2018, during which he worked closely with Prof. Wang and [Prof. Haixu Tang](https://www.informatics.indiana.edu/hatang/) in organizing the [Genomic data privacy and security protection competition](http://www.humangenomeprivacy.org/2017/). Please find the cv here: [in English](/files/cv.pdf), [中文](/files/cvc.pdf).
+Dr. Wenhao Wang is an Associate Professor at the [Institute of Information Engineering](http://www.iie.ac.cn/), Chinese Academy of Sciences (CAS). His research focuses on hardware security and confidential computing, with particular interests in trusted execution environments, secure processor architecture, side-channel analysis and mitigation, and privacy-preserving systems. His work combines hardware and systems techniques with cryptographic methods to build practical and trustworthy computing platforms. Please find his CV in [English](/files/cv.pdf) or [Chinese](/files/cvc.pdf).
 
-**Please send an email to [wangwenhao@iie.ac.cn](mailto:wangwenhao@iie.ac.cn) if you would like to join the group. Students with interests in topics related to operating system, virtualization, hardware-assisted security, TEE, privacy preserving technologies and microarchitectural side channels etc., are all welcome.**
+Prospective students interested in system security, hardware security, confidential computing, or privacy-preserving systems are welcome to contact me at [wangwenhao@iie.ac.cn](mailto:wangwenhao@iie.ac.cn).
 
-<span class="notice">Due to the institute’s policy, I am currently unable to accept international students.</span>
+<div class="notice">
+  <strong>We are actively recruiting students to work on agentic systems security and embodied AI security.</strong> Please contact me if you are interested.
+</div>
+
+<p class="eligibility-note">Due to the institute’s policy, I am currently unable to accept international students.</p>
 
 ## News
 

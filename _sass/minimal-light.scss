@@ -220,7 +220,8 @@ papertitle {
     }
 
     .news-item time,
-    .publication-legend {
+    .publication-legend,
+    .eligibility-note {
       color: #c8d5e3;
     }
 
@@ -245,6 +246,12 @@ papertitle {
   font-weight: 600;
   margin: 0.75rem 0 1.5rem;
   padding: 0.55rem 0.8rem;
+}
+
+.eligibility-note {
+  color: #777;
+  font-size: 0.85rem;
+  margin: -0.85rem 0 1.5rem;
 }
 
 .news-timeline {
@@ -298,12 +305,12 @@ papertitle {
 }
 
 .advised-marker {
-  border: 1px solid currentColor;
+  border-bottom: 1px solid currentColor;
   display: inline-block;
-  height: 0.65em;
+  height: 0.8em;
   margin: 0 0.15em;
-  vertical-align: -0.05em;
-  width: 0.65em;
+  vertical-align: 0.05em;
+  width: 1em;
 }
 
 
