@@ -21,15 +21,6 @@
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="">
    </div>
   {% endif %}
-  <div class="abbr publication-badge">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% if link.journal_short %} 
-    <abbr class="badge">{{ link.journal_short }}</abbr>
-    {% endif %}
-  </div>
-  
   <div class="publication-content">
       <div class="title"> [ {% if link.conference %}C{% decrement conference_number %}{% else %}J{% decrement journal_number %}{% endif %} ] <a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
@@ -66,4 +57,3 @@
 
 </ol>
 </div>
-

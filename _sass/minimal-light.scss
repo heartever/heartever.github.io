@@ -205,7 +205,9 @@ papertitle {
     }
 
     body .notice {
-      color: #8bc9ff;
+      background: #3a2d12;
+      border-left-color: #f0b44d;
+      color: #ffe4ac;
     }
 
     .news-timeline {
@@ -222,6 +224,10 @@ papertitle {
       color: #c8d5e3;
     }
 
+    .news-item time {
+      background: #293a4c;
+    }
+
     input {
       color: #e6e8ee;
       border-color: #e6e8ee;
@@ -230,14 +236,21 @@ papertitle {
 }
 
 .notice {
-  color: #0645ad;
+  background: #fff3cd;
+  border-left: 4px solid #c98200;
+  border-radius: 3px;
+  color: #704300;
+  display: block;
   font-size: 18px;
+  font-weight: 600;
+  margin: 0.75rem 0 1.5rem;
+  padding: 0.55rem 0.8rem;
 }
 
 .news-timeline {
-  border-left: 2px solid #8aa0b8;
+  border-left: 3px solid #6d91b8;
   margin: 0.5rem 0 2rem 0.35rem;
-  padding-left: 1.5rem;
+  padding-left: 1.75rem;
 }
 
 .news-item {
@@ -247,21 +260,26 @@ papertitle {
 
 .news-item::before {
   background: #2a5d9f;
-  border: 3px solid #fff;
+  border: 4px solid #fff;
   border-radius: 50%;
   content: "";
-  height: 0.6rem;
-  left: -1.94rem;
+  height: 0.7rem;
+  left: -2.18rem;
   position: absolute;
-  top: 0.25rem;
-  width: 0.6rem;
+  top: 0.35rem;
+  width: 0.7rem;
 }
 
 .news-item time {
+  background: #e8f1fa;
+  border-radius: 999px;
   color: #043361;
   display: block;
+  font-size: 0.9em;
   font-weight: 600;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.35rem;
+  padding: 0.12rem 0.6rem;
+  width: fit-content;
 }
 
 .news-item p {
