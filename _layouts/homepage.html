@@ -40,7 +40,7 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar"><img src="{{ site.avatar }}" alt="{{ site.title }}" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>
@@ -61,31 +61,31 @@
         <br>
         <div class="social-icons">
         {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}" aria-label="Google Scholar" title="Google Scholar">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
         </a>  
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}" aria-label="Curriculum vitae" title="Curriculum vitae">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}" aria-label="GitHub" title="GitHub">
           <i class="fab fa-github"></i>
         </a>
         {% endif %}
 
         {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
+        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}" aria-label="LinkedIn" title="LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
 
         {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
+        <a style="margin: 0 0 0 0" href="{{ site.twitter }}" aria-label="Twitter" title="Twitter">
           <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
@@ -97,20 +97,7 @@
 
       {{ content }}
 
-      <br>
-
-      <div style="width: 300px; margin: 0 auto;">
-        <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=H_pjxEKTYvqgGA7Eecfa-xTwIMYHG3dWEDTs_Zy-gb4&cl=ffffff&w=a"></script>
-      </div>
-
-      {% if site.enable_footnote %}
-      <p align="center">Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme. Unique visitors: <img src="http://hitwebcounter.com/counter/counter.php?page=6920735&style=0007&nbdigits=4&type=ip&initCount=0" title="." Alt="." border="0" width="5%" height="5%"></p>
-      {% endif %}
-
-
       </section>
-      <footer>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

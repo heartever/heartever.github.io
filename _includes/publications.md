@@ -1,5 +1,5 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications (Full list: <a href="https://scholar.google.com/citations?user=9WkYf5wAAAAJ&hl=en">Google Scholar</a>)</h2>
-<p><h4 id="publications" style="margin: 2px 0px -15px;">* Corresponding authors, [ ] Equal Contributions, <input type='text' style='border:none;border-bottom:1px solid #000' size= "1"/> Advised by me</h4></p>
+<h2 id="selected-publications">Selected Publications <span class="section-link">(<a href="https://scholar.google.com/citations?user=9WkYf5wAAAAJ&hl=en">Full list on Google Scholar</a>)</span></h2>
+<p class="publication-legend">* Corresponding authors; [ ] Equal Contributions; <span class="advised-marker" aria-hidden="true"></span> Advised by me</p>
 
 <div class="publications">
 <ol class="bibliography">
@@ -17,11 +17,11 @@
 <li>
 <div class="pub-row">
   {% if link.image %} 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+  <div class="publication-thumbnail">
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="">
    </div>
   {% endif %}
-  <div class="col-sm-3 abbr" style="position: relative;padding-left: 80px;">
+  <div class="abbr publication-badge">
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
@@ -30,7 +30,7 @@
     {% endif %}
   </div>
   
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="publication-content">
       <div class="title"> [ {% if link.conference %}C{% decrement conference_number %}{% else %}J{% decrement journal_number %}{% endif %} ] <a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em><em>{{ link.journal }}</em>
@@ -66,5 +66,4 @@
 
 </ol>
 </div>
-
 
