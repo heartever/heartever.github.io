@@ -25,11 +25,9 @@ Students
 --------
 
 * Master students:
-
   - Yifan Bai
 
 * PhD students:
-
   - Linke Song (Co-advised with Prof. Rui Hou)
   - Xinhong Liu (Co-advised with Prof. Rui Hou)
   - Zhuxin Yang (Co-advised with Prof. Rui Hou)
@@ -41,7 +39,7 @@ Alumni
 * Zhennan Min (Li Auto)
 * Huihao Zhang (First Research Institute of the Ministry of Public Security of PRC)
 * Jinze She
-* Wei He (in pursuit of a Doctoral Degree with Prof. [Wei Song](https://wsong83.github.io/))
+* Wei He (in pursuit of a Doctoral Degree with Prof. Rui Hou)
 * Wenwen Ruan (First job: Intel)
 * Sitong Chen (First job: Shanghai Academy of Spaceflight Technology)
 * Bohan Li (Co-advised with Prof. Dongdai Lin)
