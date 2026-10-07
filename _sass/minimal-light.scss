@@ -220,9 +220,13 @@ papertitle {
     }
 
     .news-item time,
-    .publication-legend,
-    .eligibility-note {
+    .publication-legend {
       color: #c8d5e3;
+    }
+
+    .eligibility-note {
+      border-left-color: #c9983a;
+      color: #f3d58b;
     }
 
     .news-item time {
@@ -249,9 +253,12 @@ papertitle {
 }
 
 .eligibility-note {
-  color: #777;
-  font-size: 0.85rem;
+  border-left: 3px solid #b77b10;
+  color: #704300;
+  font-size: 1rem;
+  font-weight: 500;
   margin: -0.85rem 0 1.5rem;
+  padding-left: 0.7rem;
 }
 
 .news-timeline {
