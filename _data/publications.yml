@@ -1,9 +1,15 @@
 main:
+  - title: "Template Attack against First-Order and Second-Order Masked Dilithium Implementations"
+    authors: Haopeng Fan, Qingjun Yuan, Hailong Zhang*, Siqi Lu, <strong>Wenhao Wang</strong>, Haojin Zhang, Yongjuan Wang*
+    journal_short: TCAD
+    journal: IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD) (CCF-A)
+    pdf: https://ieeexplore.ieee.org/document/11723199
+
   - title: "System-Wide Ransomware Attack Detection via Perturbation-Resilient Representation Learning"
     authors: Fengkai Yuan, Lingbo Zhao, Zhilu Wang, <strong>Wenhao Wang</strong>, Dan Meng, Rui Hou*
     journal_short: TIFS
     journal: IEEE Transactions on Information Forensics and Security (TIFS) (CCF-A)
-    pdf: https://ieeexplore.ieee.org/document/11655200/
+    pdf: https://ieeexplore.ieee.org/document/11655200
   
   - title: "Enjoy the Free Lunch, Someone Paid for Us: Escaping Resource Limits of MicroVM-based Containers"
     authors: Shiwen Wang, Wu Luo*, Kaicheng Liu, Zheyuan Xu, Yaowen Zheng, <strong>Wenhao Wang</strong>, Shijun Zhao, Peinan Li, Rui Hou*
